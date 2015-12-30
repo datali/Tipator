@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The biggest challenge for me was to use NSDefaults, I still havnt implemented it in my app but I gave it a try. I also tried to pass data from one controller to another but I was not successfull with it.
+The biggest challenge for me was to use NSDefaults, I still havnt implemented it in my app but I gave it a try. I also tried to pass data from one controller to another but I was not successfull with it. Another issue was with GitHub where if I added the .gitignore, xCode would not allow me to push.
 
 ## License
 
